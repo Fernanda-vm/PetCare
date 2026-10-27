@@ -1,7 +1,5 @@
 "use strict";
-
-// URL pública del backend SWI-Prolog. Reemplaza el dominio cuando Render lo genere.
-const API_BASE_URL = "https://TU-SERVICIO.onrender.com";
+const API_BASE_URL = "https://petcare-go97.onrender.com";
 
 // ============================================
 // PETCARE ADVISOR
