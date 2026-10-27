@@ -1,0 +1,297 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Nunito:wght@400;600;700;800&display=swap');
+
+:root {
+  --cream: #fffaf2;
+  --green: #315c4c;
+  --pink: #e9b8b1;
+  --text: #26382f;
+  --muted: #777e76;
+  --white: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--cream);
+  color: var(--text);
+  font-family: "DM Sans", sans-serif;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px 8%;
+  border-bottom: 1px solid #eee7dc;
+}
+
+.logo {
+  color: var(--green);
+  font-family: "Nunito", sans-serif;
+  font-size: 1.4rem;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.logo span {
+  color: #c77f79;
+}
+
+.tag, .note, footer {
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+main {
+  width: min(680px, 90%);
+  margin: 0 auto;
+  padding: 55px 0;
+}
+
+.hero {
+  text-align: center;
+  margin-bottom: 34px;
+}
+
+.eyebrow {
+  color: #b36f68;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+h1, h2 {
+  font-family: "Nunito", sans-serif;
+}
+
+h1 {
+  margin: 12px 0;
+  font-size: clamp(2.3rem, 7vw, 3.6rem);
+  line-height: 1.08;
+}
+
+h1 span {
+  color: var(--green);
+}
+
+.intro {
+  max-width: 460px;
+  margin: 16px auto;
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+.panel, .results {
+  padding: clamp(22px, 5vw, 36px);
+  background: var(--white);
+  border: 1px solid #eee8de;
+  border-radius: 24px;
+  box-shadow: 0 12px 40px #51432a0a;
+}
+
+.panel-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 26px;
+}
+
+.panel-heading h2, .results h2 {
+  margin: 5px 0;
+  font-size: 1.55rem;
+}
+
+.paw {
+  font-size: 2.3rem;
+}
+
+.field {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 9px;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+select {
+  width: 100%;
+  padding: 14px;
+  color: var(--text);
+  background: #fffdf9;
+  border: 1px solid #e4e1d8;
+  border-radius: 12px;
+  font: inherit;
+}
+
+select:focus {
+  outline: 2px solid var(--pink);
+  border-color: transparent;
+}
+
+button {
+  width: 100%;
+  padding: 16px;
+  background: var(--green);
+  color: white;
+  border: none;
+  border-radius: 12px;
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.2s;
+}
+
+button:hover {
+  background: #244638;
+  transform: translateY(-1px);
+}
+
+button span {
+  margin-left: 8px;
+}
+
+.note {
+  margin: 18px 0 0;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.results {
+  margin-top: 28px;
+}
+
+.results > p:not(.eyebrow):not(.demo-note) {
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+.advice-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 14px;
+  margin-top: 22px;
+}
+
+.advice-card {
+  padding: 18px;
+  background: #f7f7ef;
+  border-radius: 14px;
+}
+
+.advice-card h3 {
+  margin: 0 0 8px;
+  font-size: 1rem;
+}
+
+.advice-card p {
+  margin: 0;
+  color: #657067;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.demo-note {
+  margin-top: 22px;
+  color: #99735c;
+  font-size: 0.8rem;
+  line-height: 1.5;
+}
+
+footer {
+  padding: 22px;
+  text-align: center;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+@media (max-width: 480px) {
+  .navbar {
+    padding: 18px 5%;
+  }
+
+  .tag {
+    max-width: 110px;
+    text-align: right;
+  }
+
+  main {
+    padding-top: 35px;
+  }
+}
+
+select,
+textarea {
+    width: 100%;
+    padding: 14px;
+    color: var(--text);
+    background: #fffdf9;
+    border: 1px solid #e4e1d8;
+    border-radius: 12px;
+    font: inherit;
+}
+
+textarea {
+    resize: vertical;
+    line-height: 1.5;
+}
+
+select:focus,
+textarea:focus {
+    outline: 2px solid var(--pink);
+    border-color: transparent;
+}
+
+.field small {
+    display: block;
+    margin-top: 8px;
+    color: var(--muted);
+    font-size: 0.8rem;
+    line-height: 1.5;
+}
+
+.paw {
+    font-size: 2.3rem;
+}
+
+.logo span {
+    color: #c77f79;
+}
+
+.results {
+    scroll-margin-top: 24px;
+}
+
+button:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+    outline: 3px solid var(--pink);
+    outline-offset: 3px;
+}
+
+/* Contenedor de la imagen en la tarjeta para evitar desbordes */
+.advice-card img {
+    transition: transform 0.3s ease; /* Controla la velocidad de la animación */
+}
+
+/* Efecto Zoom al pasar el cursor (Hover) */
+.advice-card:hover img {
+    transform: scale(1.05); /* Incrementa el tamaño un 5% */
+}
+
+/* Opcional: Si quieres un diseño más limpio, evita que la imagen salga del borde redondeado */
+.advice-card {
+    overflow: hidden;
+    transition: box-shadow 0.3s ease;
+}
+
+.advice-card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}

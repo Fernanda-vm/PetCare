@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="PetCare Advisor: recomendaciones orientativas para el cuidado de tu mascota.">
+    <title>PetCare Advisor</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js" defer></script>
+</head>
+<body>
+
+    <header class="navbar">
+        <a class="logo" href="#">PetCare <span>Advisor</span></a>
+        <span class="tag">Tu guía de cuidado animal</span>
+    </header>
+
+    <main>
+        <section class="hero">
+            <p class="eyebrow">CADA MASCOTA ES ÚNICA</p>
+            <h1>Cuida de quien <br><span>te llena de alegría</span></h1>
+            <p class="intro">
+                Cuéntanos sobre tu compañero para explorar opciones de
+                cuidado, enriquecimiento y actividades compatibles.
+            </p>
+        </section>
+
+        <section class="panel">
+            <div class="panel-heading">
+                <div>
+                    <p class="eyebrow">EMPECEMOS</p>
+                    <h2>Cuéntanos sobre tu mascota</h2>
+                </div>
+                <span class="paw" aria-hidden="true">🐾</span>
+            </div>
+
+<form id="formulario">
+
+                <div class="field">
+                    <label for="especie">Especie</label>
+<select id="especie" name="especie" required>
+    <option value="" disabled selected>Selecciona una especie</option>
+    <option value="perro">Perro</option>
+    <option value="gato">Gato</option>
+    <option value="ave">Ave</option>
+    <option value="roedor">Roedor</option>
+</select>
+
+
+                <div class="field">
+                    <label for="variedad">Raza o variedad</label>
+                    <select id="variedad" name="variedad" required>
+                        <option value="" disabled selected>
+                            Primero selecciona la especie
+                        </option>
+                    </select>
+                </div>
+
+                <div class="field">
+                    <label for="etapa">Etapa de vida</label>
+                    <select id="etapa" name="etapa" required>
+                        <option value="" disabled selected>
+                            Selecciona una opción
+                        </option>
+                        <option value="cria">Cría o juvenil</option>
+                        <option value="adulto">Adulto</option>
+                        <option value="senior">Edad avanzada</option>
+                    </select>    
+                </div>
+
+                <div class="field">
+                    <label for="entorno">Entorno donde vive</label>
+                    <select id="entorno" name="entorno" required>
+                        <option value="" disabled selected>
+                            Selecciona el entorno
+                        </option>
+                        <option value="departamento">Departamento</option>
+                        <option value="casa">Casa</option>
+                        <option value="espacio_interior">Espacio interior dedicado</option>
+                        <option value="desconocido">Desconocido</option>
+                    </select>
+                </div>
+
+                <div class="field">
+                    <label for="espacio">Espacio disponible para actividades</label>
+                    <select id="espacio" name="espacio" required>
+                        <option value="" disabled selected>
+                            Selecciona una opción
+                        </option>
+                        <option value="limitado">Limitado</option>
+                        <option value="moderado">Moderado</option>
+                        <option value="amplio">Amplio</option>
+                        <option value="desconocido">Desconocido</option>
+                    </select>
+                </div>
+
+                <div class="field">
+                    <label for="tipo-actividad">
+                        ¿Qué tipo de recomendación buscas?
+                    </label>
+                    <select id="tipo-actividad" name="tipo_actividad" required>
+                        <option value="" disabled selected>
+                            Selecciona una opción
+                        </option>
+                        <option value="juego">Juego e interacción</option>
+                        <option value="alimentacion">
+                            Búsqueda de alimento o enriquecimiento alimentario
+                        </option>
+                        <option value="entorno">Mejoras del entorno y refugios</option>
+                        <option value="ejercicio">Movimiento y exploración</option>
+                        <option value="todas">Todas las categorías disponibles</option>
+                        <option value="desconocido">No estoy seguro</option>
+                    </select>
+                </div>
+
+                <button type="submit">
+                    Consultar recomendaciones <span aria-hidden="true">→</span>
+                </button>
+            </form>
+
+            <p class="note">
+                Las recomendaciones serán orientativas y dependerán de la
+                información proporcionada y de las opciones documentadas
+                en el catálogo.
+            </p>
+        <section id="resultados" class="results" aria-live="polite" hidden>
+            <p class="eyebrow">PETCARE ADVISOR</p>
+            <h2 id="titulo-resultados">Datos de tu consulta</h2>
+            <p id="descripcion-resultados"></p>
+            
+            <!-- 🧹 BOTÓN DE LIMPIAR UBICADO CORRECTAMENTE -->
+            <button type="button" id="boton-limpiar" style="margin-bottom: 20px; padding: 10px 15px; background: #e0dcd3; border: none; border-radius: 6px; cursor: pointer; color: var(--text); font-weight: bold;">
+                🧹 Limpiar resultados
+            </button>
+
+            <div id="lista-consejos" class="advice-grid"></div>
+        </section>
+    </main>
+
+
+    <footer>
+        Hecho con amor para cuidar mejor a nuestros compañeros.
+    </footer>
+
+</body>
+</html>
