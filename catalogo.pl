@@ -93,135 +93,135 @@ animal(p24, perro, basset_artesiano_de_normandia, senior, casa, moderado, 'Basse
 
 
 % --- CHINCHILLA (ROEDOR) ---
-recomendacion(chinchilla, juego, '🪵 Juego: Añade bloques de madera segura para roer y tubos de cartón interconectados que simulen madrigueras subterráneas.').
-recomendacion(chinchilla, alimento, '🐹 Alimento: Esparce su mezcla de semillas directamente sobre el sustrato en lugar de usar un plato fijo, obligándolo a excavar y recolectar.').
-recomendacion(chinchilla, entorno, '🛖 Entorno: Proporciona una capa profunda de sustrato (mínimo 15 cm) para que pueda excavar túneles estables, y añade una zona con arena especial para baños.').
-recomendacion(chinchilla, movimiento, '🎡 Movimiento: Instala una rueda de ejercicio de tamaño adecuado (mínimo 20-30 cm de diámetro según la especie) con superficie sólida para evitar lesiones en su espalda.').
+recomendacion(chinchilla, juego, 'Juego: Añade bloques de madera segura para roer y tubos de cartón interconectados que simulen madrigueras subterráneas.').
+recomendacion(chinchilla, alimento, 'Alimento: Esparce su mezcla de semillas directamente sobre el sustrato en lugar de usar un plato fijo, obligándolo a excavar y recolectar.').
+recomendacion(chinchilla, entorno, 'Entorno: Proporciona una capa profunda de sustrato (mínimo 15 cm) para que pueda excavar túneles estables, y añade una zona con arena especial para baños.').
+recomendacion(chinchilla, movimiento, 'Movimiento: Instala una rueda de ejercicio de tamaño adecuado (mínimo 20-30 cm de diámetro según la especie) con superficie sólida para evitar lesiones en su espalda.').
 
 % --- HAMSTER (ROEDOR) ---
-recomendacion(hamster, juego, '🪵 Juego: Añade bloques de madera segura para roer y tubos de cartón interconectados que simulen madrigueras subterráneas.').
-recomendacion(hamster, alimento, '🐹 Alimento: Esparce su mezcla de semillas directamente sobre el sustrato en lugar de usar un plato fijo, obligándolo a excavar y recolectar.').
-recomendacion(hamster, entorno, '🛖 Entorno: Proporciona una capa profunda de sustrato (mínimo 15 cm) para que pueda excavar túneles estables, y añade una zona con arena especial para baños.').
-recomendacion(hamster, movimiento, '🎡 Movimiento: Instala una rueda de ejercicio de tamaño adecuado (mínimo 20-30 cm de diámetro según la especie) con superficie sólida para evitar lesiones en su espalda.').
+recomendacion(hamster, juego, 'Juego: Añade bloques de madera segura para roer y tubos de cartón interconectados que simulen madrigueras subterráneas.').
+recomendacion(hamster, alimento, 'Alimento: Esparce su mezcla de semillas directamente sobre el sustrato en lugar de usar un plato fijo, obligándolo a excavar y recolectar.').
+recomendacion(hamster, entorno, 'Entorno: Proporciona una capa profunda de sustrato (mínimo 15 cm) para que pueda excavar túneles estables, y añade una zona con arena especial para baños.').
+recomendacion(hamster, movimiento, 'Movimiento: Instala una rueda de ejercicio de tamaño adecuado (mínimo 20-30 cm de diámetro según la especie) con superficie sólida para evitar lesiones en su espalda.').
 
 % --- JERBOS (ROEDOR) ---
-recomendacion(jerbos, juego, '🪵 Juego: Añade bloques de madera segura para roer y tubos de cartón interconectados que simulen madrigueras subterráneas.').
-recomendacion(jerbos, alimento, '🐹 Alimento: Esparce su mezcla de semillas directamente sobre el sustrato en lugar de usar un plato fijo, obligándolo a excavar y recolectar.').
-recomendacion(jerbos, entorno, '🛖 Entorno: Proporciona una capa profunda de sustrato (mínimo 15 cm) para que pueda excavar túneles estables, y añade una zona con arena especial para baños.').
-recomendacion(jerbos, movimiento, '🎡 Movimiento: Instala una rueda de ejercicio de tamaño adecuado (mínimo 20-30 cm de diámetro según la especie) con superficie sólida para evitar lesiones en su espalda.').
+recomendacion(jerbos, juego, 'Juego: Añade bloques de madera segura para roer y tubos de cartón interconectados que simulen madrigueras subterráneas.').
+recomendacion(jerbos, alimento, 'Alimento: Esparce su mezcla de semillas directamente sobre el sustrato en lugar de usar un plato fijo, obligándolo a excavar y recolectar.').
+recomendacion(jerbos, entorno, 'Entorno: Proporciona una capa profunda de sustrato (mínimo 15 cm) para que pueda excavar túneles estables, y añade una zona con arena especial para baños.').
+recomendacion(jerbos, movimiento, 'Movimiento: Instala una rueda de ejercicio de tamaño adecuado (mínimo 20-30 cm de diámetro según la especie) con superficie sólida para evitar lesiones en su espalda.').
 
 % --- COBAYAS (ROEDOR) ---
-recomendacion(cobayas, juego, '🪵 Juego: Añade bloques de madera segura para roer y tubos de cartón interconectados que simulen madrigueras subterráneas.').
-recomendacion(cobayas, alimento, '🐹 Alimento: Esparce su mezcla de semillas directamente sobre el sustrato en lugar de usar un plato fijo, obligándolo a excavar y recolectar.').
-recomendacion(cobayas, entorno, '🛖 Entorno: Proporciona una capa profunda de sustrato (mínimo 15 cm) para que pueda excavar túneles estables, y añade una zona con arena especial para baños.').
-recomendacion(cobayas, movimiento, '🎡 Movimiento: Instala una rueda de ejercicio de tamaño adecuado (mínimo 20-30 cm de diámetro según la especie) con superficie sólida para evitar lesiones en su espalda.').
+recomendacion(cobayas, juego, 'Juego: Añade bloques de madera segura para roer y tubos de cartón interconectados que simulen madrigueras subterráneas.').
+recomendacion(cobayas, alimento, 'Alimento: Esparce su mezcla de semillas directamente sobre el sustrato en lugar de usar un plato fijo, obligándolo a excavar y recolectar.').
+recomendacion(cobayas, entorno, 'Entorno: Proporciona una capa profunda de sustrato (mínimo 15 cm) para que pueda excavar túneles estables, y añade una zona con arena especial para baños.').
+recomendacion(cobayas, movimiento, 'Movimiento: Instala una rueda de ejercicio de tamaño adecuado (mínimo 20-30 cm de diámetro según la especie) con superficie sólida para evitar lesiones en su espalda.').
 
 % --- GALLINA MARANS (AVE) ---
-recomendacion(gallina_marans, juego, '🔔 Juego: Coloca juguetes destructibles de madera blanda, campanas de acero inoxidable y columpios para mantener su mente activa.').
-recomendacion(gallina_marans, alimento, '🥦 Alimento: Introduce brochetas de frutas y verduras frescas colgadas del techo de la jaula para que tengan que esforzarse un poco al comer.').
-recomendacion(gallina_marans, entorno, '🛖 Entorno: Asegura una jaula lo suficientemente amplia para que pueda abrir las alas. Añade perchas de ramas naturales de diferentes grosores para ejercitar sus patas.').
-recomendacion(gallina_marans, movimiento, '🪶 Movimiento: Permite sesiones de vuelo libre supervisado en una habitación cerrada y segura (con ventanas y espejos tapados) para fortalecer sus músculos pectorales.').
+recomendacion(gallina_marans, juego, 'Juego: Coloca juguetes destructibles de madera blanda, campanas de acero inoxidable y columpios para mantener su mente activa.').
+recomendacion(gallina_marans, alimento, 'Alimento: Introduce brochetas de frutas y verduras frescas colgadas del techo de la jaula para que tengan que esforzarse un poco al comer.').
+recomendacion(gallina_marans, entorno, 'Entorno: Asegura una jaula lo suficientemente amplia para que pueda abrir las alas. Añade perchas de ramas naturales de diferentes grosores para ejercitar sus patas.').
+recomendacion(gallina_marans, movimiento, 'Movimiento: Permite sesiones de vuelo libre supervisado en una habitación cerrada y segura (con ventanas y espejos tapados) para fortalecer sus músculos pectorales.').
 
 % --- COTORRA ALEJANDRINA (AVE) ---
-recomendacion(cotorra_alejandrina, juego, '🔔 Juego: Coloca juguetes destructibles de madera blanda, campanas de acero inoxidable y columpios para mantener su mente activa.').
-recomendacion(cotorra_alejandrina, alimento, '🥦 Alimento: Introduce brochetas de frutas y verduras frescas colgadas del techo de la jaula para que tengan que esforzarse un poco al comer.').
-recomendacion(cotorra_alejandrina, entorno, '🛖 Entorno: Asegura una jaula lo suficientemente amplia para que pueda abrir las alas. Añade perchas de ramas naturales de diferentes grosores para ejercitar sus patas.').
-recomendacion(cotorra_alejandrina, movimiento, '🪶 Movimiento: Permite sesiones de vuelo libre supervisado en una habitación cerrada y segura (con ventanas y espejos tapados) para fortalecer sus músculos pectorales.').
+recomendacion(cotorra_alejandrina, juego, 'Juego: Coloca juguetes destructibles de madera blanda, campanas de acero inoxidable y columpios para mantener su mente activa.').
+recomendacion(cotorra_alejandrina, alimento, 'Alimento: Introduce brochetas de frutas y verduras frescas colgadas del techo de la jaula para que tengan que esforzarse un poco al comer.').
+recomendacion(cotorra_alejandrina, entorno, 'Entorno: Asegura una jaula lo suficientemente amplia para que pueda abrir las alas. Añade perchas de ramas naturales de diferentes grosores para ejercitar sus patas.').
+recomendacion(cotorra_alejandrina, movimiento, 'Movimiento: Permite sesiones de vuelo libre supervisado en una habitación cerrada y segura (con ventanas y espejos tapados) para fortalecer sus músculos pectorales.').
 
 % --- CANARIO (AVE) ---
-recomendacion(canario, juego, '🔔 Juego: Coloca juguetes destructibles de madera blanda, campanas de acero inoxidable y columpios para mantener su mente activa.').
-recomendacion(canario, alimento, '🥦 Alimento: Introduce brochetas de frutas y verduras frescas colgadas del techo de la jaula para que tengan que esforzarse un poco al comer.').
-recomendacion(canario, entorno, '🛖 Entorno: Asegura una jaula lo suficientemente amplia para que pueda abrir las alas. Añade perchas de ramas naturales de diferentes grosores para ejercitar sus patas.').
-recomendacion(canario, movimiento, '🪶 Movimiento: Permite sesiones de vuelo libre supervisado en una habitación cerrada y segura (con ventanas y espejos tapados) para fortalecer sus músculos pectorales.').
+recomendacion(canario, juego, 'Juego: Coloca juguetes destructibles de madera blanda, campanas de acero inoxidable y columpios para mantener su mente activa.').
+recomendacion(canario, alimento, 'Alimento: Introduce brochetas de frutas y verduras frescas colgadas del techo de la jaula para que tengan que esforzarse un poco al comer.').
+recomendacion(canario, entorno, 'Entorno: Asegura una jaula lo suficientemente amplia para que pueda abrir las alas. Añade perchas de ramas naturales de diferentes grosores para ejercitar sus patas.').
+recomendacion(canario, movimiento, 'Movimiento: Permite sesiones de vuelo libre supervisado en una habitación cerrada y segura (con ventanas y espejos tapados) para fortalecer sus músculos pectorales.').
 
 % --- AGAPORNIS (AVE) ---
-recomendacion(agapornis, juego, '🔔 Juego: Coloca juguetes destructibles de madera blanda, campanas de acero inoxidable y columpios para mantener su mente activa.').
-recomendacion(agapornis, alimento, '🥦 Alimento: Introduce brochetas de frutas y verduras frescas colgadas del techo de la jaula para que tengan que esforzarse un poco al comer.').
-recomendacion(agapornis, entorno, '🛖 Entorno: Asegura una jaula lo suficientemente amplia para que pueda abrir las alas. Añade perchas de ramas naturales de diferentes grosores para ejercitar sus patas.').
-recomendacion(agapornis, movimiento, '🪶 Movimiento: Permite sesiones de vuelo libre supervisado en una habitación cerrada y segura (con ventanas y espejos tapados) para fortalecer sus músculos pectorales.').
+recomendacion(agapornis, juego, 'Juego: Coloca juguetes destructibles de madera blanda, campanas de acero inoxidable y columpios para mantener su mente activa.').
+recomendacion(agapornis, alimento, 'Alimento: Introduce brochetas de frutas y verduras frescas colgadas del techo de la jaula para que tengan que esforzarse un poco al comer.').
+recomendacion(agapornis, entorno, 'Entorno: Asegura una jaula lo suficientemente amplia para que pueda abrir las alas. Añade perchas de ramas naturales de diferentes grosores para ejercitar sus patas.').
+recomendacion(agapornis, movimiento, 'Movimiento: Permite sesiones de vuelo libre supervisado en una habitación cerrada y segura (con ventanas y espejos tapados) para fortalecer sus músculos pectorales.').
 
 % Añadir en la sección de aves
 % Añadir al final de las recomendaciones de aves
 % --- PERIQUITO (AVE) ---
-recomendacion(periquito, juego, '🔔 Juego: Coloca juguetes destructibles de madera blanda, campanas de acero inoxidable y columpios para mantener su mente activa.').
-recomendacion(periquito, alimento, '🥦 Alimento: Introduce brochetas de frutas y verduras frescas colgadas del techo de la jaula para que tengan que esforzarse un poco al comer.').
-recomendacion(periquito, entorno, '🛖 Entorno: Asegura una jaula lo suficientemente amplia para que pueda abrir las alas. Añade perchas de ramas naturales de diferentes grosores para ejercitar sus patas.').
-recomendacion(periquito, movimiento, '🪶 Movimiento: Permite sesiones de vuelo libre supervisado en una habitación cerrada y segura (con ventanas y espejos tapados) para fortalecer sus músculos pectorales.').
+recomendacion(periquito, juego, 'Juego: Coloca juguetes destructibles de madera blanda, campanas de acero inoxidable y columpios para mantener su mente activa.').
+recomendacion(periquito, alimento, 'Alimento: Introduce brochetas de frutas y verduras frescas colgadas del techo de la jaula para que tengan que esforzarse un poco al comer.').
+recomendacion(periquito, entorno, 'Entorno: Asegura una jaula lo suficientemente amplia para que pueda abrir las alas. Añade perchas de ramas naturales de diferentes grosores para ejercitar sus patas.').
+recomendacion(periquito, movimiento, 'Movimiento: Permite sesiones de vuelo libre supervisado en una habitación cerrada y segura (con ventanas y espejos tapados) para fortalecer sus músculos pectorales.').
 
 
 % --- BOMBAY (GATO) ---
-recomendacion(bombay, juego, '🐭 Juego: Utiliza varitas con plumas o punteros láser (terminando siempre el juego señalando un premio físico) para activar su instinto de persecución.').
-recomendacion(bombay, alimento, '🐈 Alimento: Utiliza comederos tipo laberinto o esconde pequeñas porciones de alimento seco en diferentes alturas de la habitación para fomentar el forrajeo.').
-recomendacion(bombay, entorno, '🌳 Entorno: La combinación perfecta es un rascador vertical alto cerca de una ventana (catio o repisa segura). Necesitan controlar su territorio desde las alturas.').
-recomendacion(bombay, movimiento, '🧗 Movimiento: Diseña un circuito con repisas o pasarelas en la pared para permitirle escalar y saltar de manera segura dentro de la casa.').
+recomendacion(bombay, juego, 'Juego: Utiliza varitas con plumas o punteros láser (terminando siempre el juego señalando un premio físico) para activar su instinto de persecución.').
+recomendacion(bombay, alimento, 'Alimento: Utiliza comederos tipo laberinto o esconde pequeñas porciones de alimento seco en diferentes alturas de la habitación para fomentar el forrajeo.').
+recomendacion(bombay, entorno, 'Entorno: La combinación perfecta es un rascador vertical alto cerca de una ventana (catio o repisa segura). Necesitan controlar su territorio desde las alturas.').
+recomendacion(bombay, movimiento, 'Movimiento: Diseña un circuito con repisas o pasarelas en la pared para permitirle escalar y saltar de manera segura dentro de la casa.').
 
 % --- PERSA (GATO) ---
-recomendacion(persa, juego, '🐭 Juego: Utiliza varitas con plumas o punteros láser (terminando siempre el juego señalando un premio físico) para activar su instinto de persecución.').
-recomendacion(persa, alimento, '🐈 Alimento: Utiliza comederos tipo laberinto o esconde pequeñas porciones de alimento seco en diferentes alturas de la habitación para fomentar el forrajeo.').
-recomendacion(persa, entorno, '🌳 Entorno: La combinación perfecta es un rascador vertical alto cerca de una ventana (catio o repisa segura). Necesitan controlar su territorio desde las alturas.').
-recomendacion(persa, movimiento, '🧗 Movimiento: Diseña un circuito con repisas o pasarelas en la pared para permitirle escalar y saltar de manera segura dentro de la casa.').
+recomendacion(persa, juego, 'Juego: Utiliza varitas con plumas o punteros láser (terminando siempre el juego señalando un premio físico) para activar su instinto de persecución.').
+recomendacion(persa, alimento, 'Alimento: Utiliza comederos tipo laberinto o esconde pequeñas porciones de alimento seco en diferentes alturas de la habitación para fomentar el forrajeo.').
+recomendacion(persa, entorno, 'Entorno: La combinación perfecta es un rascador vertical alto cerca de una ventana (catio o repisa segura). Necesitan controlar su territorio desde las alturas.').
+recomendacion(persa, movimiento, 'Movimiento: Diseña un circuito con repisas o pasarelas en la pared para permitirle escalar y saltar de manera segura dentro de la casa.').
 
 % --- CYMRIC (GATO) ---
-recomendacion(cymric, juego, '🐭 Juego: Utiliza varitas con plumas o punteros láser (terminando siempre el juego señalando un premio físico) para activar su instinto de persecución.').
-recomendacion(cymric, alimento, '🐈 Alimento: Utiliza comederos tipo laberinto o esconde pequeñas porciones de alimento seco en diferentes alturas de la habitación para fomentar el forrajeo.').
-recomendacion(cymric, entorno, '🌳 Entorno: La combinación perfecta es un rascador vertical alto cerca de una ventana (catio o repisa segura). Necesitan controlar su territorio desde las alturas.').
-recomendacion(cymric, movimiento, '🧗 Movimiento: Diseña un circuito con repisas o pasarelas en la pared para permitirle escalar y saltar de manera segura dentro de la casa.').
+recomendacion(cymric, juego, 'Juego: Utiliza varitas con plumas o punteros láser (terminando siempre el juego señalando un premio físico) para activar su instinto de persecución.').
+recomendacion(cymric, alimento, 'Alimento: Utiliza comederos tipo laberinto o esconde pequeñas porciones de alimento seco en diferentes alturas de la habitación para fomentar el forrajeo.').
+recomendacion(cymric, entorno, 'Entorno: La combinación perfecta es un rascador vertical alto cerca de una ventana (catio o repisa segura). Necesitan controlar su territorio desde las alturas.').
+recomendacion(cymric, movimiento, 'Movimiento: Diseña un circuito con repisas o pasarelas en la pared para permitirle escalar y saltar de manera segura dentro de la casa.').
 
 % --- BENGALA (GATO) ---
-recomendacion(bengala, juego, '🐭 Juego: Utiliza varitas con plumas o punteros láser (terminando siempre el juego señalando un premio físico) para activar su instinto de persecución.').
-recomendacion(bengala, alimento, '🐈 Alimento: Utiliza comederos tipo laberinto o esconde pequeñas porciones de alimento seco en diferentes alturas de la habitación para fomentar el forrajeo.').
-recomendacion(bengala, entorno, '🌳 Entorno: La combinación perfecta es un rascador vertical alto cerca de una ventana (catio o repisa segura). Necesitan controlar su territorio desde las alturas.').
-recomendacion(bengala, movimiento, '🧗 Movimiento: Diseña un circuito con repisas o pasarelas en la pared para permitirle escalar y saltar de manera segura dentro de la casa.').
+recomendacion(bengala, juego, 'Juego: Utiliza varitas con plumas o punteros láser (terminando siempre el juego señalando un premio físico) para activar su instinto de persecución.').
+recomendacion(bengala, alimento, 'Alimento: Utiliza comederos tipo laberinto o esconde pequeñas porciones de alimento seco en diferentes alturas de la habitación para fomentar el forrajeo.').
+recomendacion(bengala, entorno, 'Entorno: La combinación perfecta es un rascador vertical alto cerca de una ventana (catio o repisa segura). Necesitan controlar su territorio desde las alturas.').
+recomendacion(bengala, movimiento, 'Movimiento: Diseña un circuito con repisas o pasarelas en la pared para permitirle escalar y saltar de manera segura dentro de la casa.').
 
 
 % --- GRAN DANES (PERRO) ---
-recomendacion(gran_danes, juego, "🥎 Juego: Usa juguetes interactivos de cuerda y pelotas de caucho blando adaptadas a su tamaño. El juego de 'traer la pelota' fortalece su vínculo sin exigir un esfuerzo articular extremo.").
-recomendacion(gran_danes, alimento, "🍗 Alimento: Implementa alfombras de olfato (snuffle mats) o juguetes rellenables congelados. Esto los mantiene concentrados y reduce la ansiedad por comer rápido.").
-recomendacion(gran_danes, entorno, "🏡 Entorno: Instala una zona de descanso acolchada y libre de corrientes de aire. Si hay escalones altos, considera colocar pequeñas rampas para cuidar sus articulaciones.").
-recomendacion(gran_danes, movimiento, "🐾 Movimiento: Realiza paseos cortos pero estimulantes (3 caminatas diarias de 10-15 minutos) priorizando que olfatee su entorno en lugar de correr largas distancias.").
+recomendacion(gran_danes, juego, "Juego: Usa juguetes interactivos de cuerda y pelotas de caucho blando adaptadas a su tamaño. El juego de 'traer la pelota' fortalece su vínculo sin exigir un esfuerzo articular extremo.").
+recomendacion(gran_danes, alimento, "Alimento: Implementa alfombras de olfato (snuffle mats) o juguetes rellenables congelados. Esto los mantiene concentrados y reduce la ansiedad por comer rápido.").
+recomendacion(gran_danes, entorno, "Entorno: Instala una zona de descanso acolchada y libre de corrientes de aire. Si hay escalones altos, considera colocar pequeñas rampas para cuidar sus articulaciones.").
+recomendacion(gran_danes, movimiento, "Movimiento: Realiza paseos cortos pero estimulantes (3 caminatas diarias de 10-15 minutos) priorizando que olfatee su entorno en lugar de correr largas distancias.").
 
 % --- CANE CORSO (PERRO) ---
-recomendacion(cane_corso, juego, "🥎 Juego: Usa juguetes interactivos de cuerda y pelotas de caucho blando adaptadas a su tamaño. El juego de 'traer la pelota' fortalece su vínculo sin exigir un esfuerzo articular extremo.").
-recomendacion(cane_corso, alimento, "🍗 Alimento: Implementa alfombras de olfato (snuffle mats) o juguetes rellenables congelados. Esto los mantiene concentrados y reduce la ansiedad por comer rápido.").
-recomendacion(cane_corso, entorno, "🏡 Entorno: Instala una zona de descanso acolchada y libre de corrientes de aire. Si hay escalones altos, considera colocar pequeñas rampas para cuidar sus articulaciones.").
-recomendacion(cane_corso, movimiento, "🐾 Movimiento: Realiza paseos cortos pero estimulantes (3 caminatas diarias de 10-15 minutos) priorizando que olfatee su entorno en lugar de correr largas distancias.").
+recomendacion(cane_corso, juego, "Juego: Usa juguetes interactivos de cuerda y pelotas de caucho blando adaptadas a su tamaño. El juego de 'traer la pelota' fortalece su vínculo sin exigir un esfuerzo articular extremo.").
+recomendacion(cane_corso, alimento, "Alimento: Implementa alfombras de olfato (snuffle mats) o juguetes rellenables congelados. Esto los mantiene concentrados y reduce la ansiedad por comer rápido.").
+recomendacion(cane_corso, entorno, "Entorno: Instala una zona de descanso acolchada y libre de corrientes de aire. Si hay escalones altos, considera colocar pequeñas rampas para cuidar sus articulaciones.").
+recomendacion(cane_corso, movimiento, "Movimiento: Realiza paseos cortos pero estimulantes (3 caminatas diarias de 10-15 minutos) priorizando que olfatee su entorno en lugar de correr largas distancias.").
 
 % --- AKITA (PERRO) ---
-recomendacion(akita, juego, "🥎 Juego: Usa juguetes interactivos de cuerda y pelotas de caucho blando adaptadas a su tamaño. El juego de 'traer la pelota' fortalece su vínculo sin exigir un esfuerzo articular extremo.").
-recomendacion(akita, alimento, "🍗 Alimento: Implementa alfombras de olfato (snuffle mats) o juguetes rellenables congelados. Esto los mantiene concentrados y reduce la ansiedad por comer rápido.").
-recomendacion(akita, entorno, "🏡 Entorno: Instala una zona de descanso acolchada y libre de corrientes de aire. Si hay escalones altos, considera colocar pequeñas rampas para cuidar sus articulaciones.").
-recomendacion(akita, movimiento, "🐾 Movimiento: Realiza paseos cortos pero estimulantes (3 caminatas diarias de 10-15 minutos) priorizando que olfatee su entorno en lugar de correr largas distancias.").
+recomendacion(akita, juego, " Juego: Usa juguetes interactivos de cuerda y pelotas de caucho blando adaptadas a su tamaño. El juego de 'traer la pelota' fortalece su vínculo sin exigir un esfuerzo articular extremo.").
+recomendacion(akita, alimento, " Alimento: Implementa alfombras de olfato (snuffle mats) o juguetes rellenables congelados. Esto los mantiene concentrados y reduce la ansiedad por comer rápido.").
+recomendacion(akita, entorno, " Entorno: Instala una zona de descanso acolchada y libre de corrientes de aire. Si hay escalones altos, considera colocar pequeñas rampas para cuidar sus articulaciones.").
+recomendacion(akita, movimiento, " Movimiento: Realiza paseos cortos pero estimulantes (3 caminatas diarias de 10-15 minutos) priorizando que olfatee su entorno en lugar de correr largas distancias.").
 
 % --- BASSET ARTESIANO DE NORMANDIA (PERRO) ---
 % --- BASSET ARTESIANO DE NORMANDIA (PERRO) ---
-recomendacion(basset_artesiano_de_normandia, juego, '🥎 Juego: Usa juguetes interactivos de cuerda y pelotas de caucho blando adaptadas a su tamaño. El juego de "traer la pelota" fortalece su vínculo sin exigir un esfuerzo articular extremo.').
-recomendacion(basset_artesiano_de_normandia, alimento, '🍗 Alimento: Implementa alfombras de olfato (snuffle mats) o juguetes rellenables congelados. Esto los mantiene concentrados y reduce la ansiedad por comer rápido.').
-recomendacion(basset_artesiano_de_normandia, entorno, '🏡 Entorno: Instala una zona de descanso acolchada y libre de corrientes de aire. Si hay escalones altos, considera colocar pequeñas rampas para cuidar sus articulaciones.').
-recomendacion(basset_artesiano_de_normandia, movimiento, '🐾 Movimiento: Realiza paseos cortos pero estimulantes (3 caminatas diarias de 10-15 minutos) priorizando que olfatee su entorno en lugar de correr largas distancias.').
+recomendacion(basset_artesiano_de_normandia, juego, ' Juego: Usa juguetes interactivos de cuerda y pelotas de caucho blando adaptadas a su tamaño. El juego de "traer la pelota" fortalece su vínculo sin exigir un esfuerzo articular extremo.').
+recomendacion(basset_artesiano_de_normandia, alimento, ' Alimento: Implementa alfombras de olfato (snuffle mats) o juguetes rellenables congelados. Esto los mantiene concentrados y reduce la ansiedad por comer rápido.').
+recomendacion(basset_artesiano_de_normandia, entorno, ' Entorno: Instala una zona de descanso acolchada y libre de corrientes de aire. Si hay escalones altos, considera colocar pequeñas rampas para cuidar sus articulaciones.').
+recomendacion(basset_artesiano_de_normandia, movimiento, ' Movimiento: Realiza paseos cortos pero estimulantes (3 caminatas diarias de 10-15 minutos) priorizando que olfatee su entorno en lugar de correr largas distancias.').
 
 % --- BORDER COLLIE (PERRO) ---
 % --- BORDER COLLIE (PERRO) ---
-recomendacion(border_collie, juego, '🥎 Juego: Usa juguetes interactivos de cuerda y pelotas de caucho blando adaptadas a su tamaño. El juego de "traer la pelota" fortalece su vínculo sin exigir un esfuerzo articular extremo.').
-recomendacion(border_collie, alimento, '🍗 Alimento: Implementa alfombras de olfato (snuffle mats) o juguetes rellenables congelados. Esto los mantiene concentrados y reduce la ansiedad por comer rápido.').
-recomendacion(border_collie, entorno, '🏡 Entorno: Instala una zona de descanso acolchada y libre de corrientes de aire. Si hay escalones altos, considera colocar pequeñas rampas para cuidar sus articulaciones.').
-recomendacion(border_collie, movimiento, '🐾 Movimiento: Realiza paseos cortos pero estimulantes (3 caminatas diarias de 10-15 minutos) priorizando que olfatee su entorno en lugar de correr largas distancias.').
+recomendacion(border_collie, juego, ' Juego: Usa juguetes interactivos de cuerda y pelotas de caucho blando adaptadas a su tamaño. El juego de "traer la pelota" fortalece su vínculo sin exigir un esfuerzo articular extremo.').
+recomendacion(border_collie, alimento, ' Alimento: Implementa alfombras de olfato (snuffle mats) o juguetes rellenables congelados. Esto los mantiene concentrados y reduce la ansiedad por comer rápido.').
+recomendacion(border_collie, entorno, ' Entorno: Instala una zona de descanso acolchada y libre de corrientes de aire. Si hay escalones altos, considera colocar pequeñas rampas para cuidar sus articulaciones.').
+recomendacion(border_collie, movimiento, ' Movimiento: Realiza paseos cortos pero estimulantes (3 caminatas diarias de 10-15 minutos) priorizando que olfatee su entorno en lugar de correr largas distancias.').
 
 % --- POMERANIAN (PERRO) ---
-recomendacion(pomeranian, juego, '🥎 Juego: Usa juguetes interactivos de cuerda y pelotas de caucho blando adaptadas a su tamaño. El juego de "traer la pelota" fortalece su vínculo sin exigir un esfuerzo articular extremo.').
-recomendacion(pomeranian, alimento, '🍗 Alimento: Implementa alfombras de olfato (snuffle mats) o juguetes rellenables congelados. Esto los mantiene concentrados y reduce la ansiedad por comer rápido.').
-recomendacion(pomeranian, entorno, '🏡 Entorno: Instala una zona de descanso acolchada y libre de corrientes de aire. Si hay escalones altos, considera colocar pequeñas rampas para cuidar sus articulaciones.').
-recomendacion(pomeranian, movimiento, '🐾 Movimiento: Realiza paseos cortos pero estimulantes (3 caminatas diarias de 10-15 minutos) priorizando que olfatee su entorno en lugar de correr largas distancias.').
+recomendacion(pomeranian, juego, ' Juego: Usa juguetes interactivos de cuerda y pelotas de caucho blando adaptadas a su tamaño. El juego de "traer la pelota" fortalece su vínculo sin exigir un esfuerzo articular extremo.').
+recomendacion(pomeranian, alimento, ' Alimento: Implementa alfombras de olfato (snuffle mats) o juguetes rellenables congelados. Esto los mantiene concentrados y reduce la ansiedad por comer rápido.').
+recomendacion(pomeranian, entorno, ' Entorno: Instala una zona de descanso acolchada y libre de corrientes de aire. Si hay escalones altos, considera colocar pequeñas rampas para cuidar sus articulaciones.').
+recomendacion(pomeranian, movimiento, ' Movimiento: Realiza paseos cortos pero estimulantes (3 caminatas diarias de 10-15 minutos) priorizando que olfatee su entorno en lugar de correr largas distancias.').
 
 % --- CHIHUAHUA (PERRO) ---
-recomendacion(chihuahua, juego, '🥎 Juego: Usa juguetes interactivos de cuerda y pelotas de caucho blando adaptadas a su tamaño. El juego de "traer la pelota" fortalece su vínculo sin exigir un esfuerzo articular extremo.').
-recomendacion(chihuahua, alimento, '🍗 Alimento: Implementa alfombras de olfato (snuffle mats) o juguetes rellenables congelados. Esto los mantiene concentrados y reduce la ansiedad por comer rápido.').
-recomendacion(chihuahua, entorno, '🏡 Entorno: Instala una zona de descanso acolchada y libre de corrientes de aire. Si hay escalones altos, considera colocar pequeñas rampas para cuidar sus articulaciones.').
-recomendacion(chihuahua, movimiento, '🐾 Movimiento: Realiza paseos cortos pero estimulantes (3 caminatas diarias de 10-15 minutos) priorizando que olfatee su entorno en lugar de correr largas distancias.').
+recomendacion(chihuahua, juego, ' Juego: Usa juguetes interactivos de cuerda y pelotas de caucho blando adaptadas a su tamaño. El juego de "traer la pelota" fortalece su vínculo sin exigir un esfuerzo articular extremo.').
+recomendacion(chihuahua, alimento, ' Alimento: Implementa alfombras de olfato (snuffle mats) o juguetes rellenables congelados. Esto los mantiene concentrados y reduce la ansiedad por comer rápido.').
+recomendacion(chihuahua, entorno, ' Entorno: Instala una zona de descanso acolchada y libre de corrientes de aire. Si hay escalones altos, considera colocar pequeñas rampas para cuidar sus articulaciones.').
+recomendacion(chihuahua, movimiento, ' Movimiento: Realiza paseos cortos pero estimulantes (3 caminatas diarias de 10-15 minutos) priorizando que olfatee su entorno en lugar de correr largas distancias.').
 % --- SCHNAUZER MINI PEQUEÑO (PERRO) ---
-recomendacion('schnauzer_mini_pequeño', juego, '🥎 Juego: Usa juguetes interactivos de cuerda y pelotas de caucho blando adaptadas a su tamaño. El juego de "traer la pelota" fortalece su vínculo sin exigir un esfuerzo articular extremo.').
-recomendacion('schnauzer_mini_pequeño', alimento, '🍗 Alimento: Implementa alfombras de olfato (snuffle mats) o juguetes rellenables congelados. Esto los mantiene concentrados y reduce la ansiedad por comer rápido.').
-recomendacion('schnauzer_mini_pequeño', entorno, '🏡 Entorno: Instala una zona de descanso acolchada y libre de corrientes de aire. Si hay escalones altos, considera colocar pequeñas rampas para cuidar sus articulaciones.').
-recomendacion('schnauzer_mini_pequeño', movimiento, '🐾 Movimiento: Realiza paseos cortos pero estimulantes (3 caminatas diarias de 10-15 minutos) priorizando que olfatee su entorno en lugar de correr largas distancias.').
+recomendacion('schnauzer_mini_pequeño', juego, ' Juego: Usa juguetes interactivos de cuerda y pelotas de caucho blando adaptadas a su tamaño. El juego de "traer la pelota" fortalece su vínculo sin exigir un esfuerzo articular extremo.').
+recomendacion('schnauzer_mini_pequeño', alimento, ' Alimento: Implementa alfombras de olfato (snuffle mats) o juguetes rellenables congelados. Esto los mantiene concentrados y reduce la ansiedad por comer rápido.').
+recomendacion('schnauzer_mini_pequeño', entorno, ' Entorno: Instala una zona de descanso acolchada y libre de corrientes de aire. Si hay escalones altos, considera colocar pequeñas rampas para cuidar sus articulaciones.').
+recomendacion('schnauzer_mini_pequeño', movimiento, ' Movimiento: Realiza paseos cortos pero estimulantes (3 caminatas diarias de 10-15 minutos) priorizando que olfatee su entorno en lugar de correr largas distancias.').
 
 % Consejos específicos según la etapa del chihuahua
 
