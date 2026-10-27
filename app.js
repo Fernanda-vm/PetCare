@@ -1,5 +1,8 @@
 "use strict";
 
+// URL pública del backend SWI-Prolog. Reemplaza el dominio cuando Render lo genere.
+const API_BASE_URL = "https://TU-SERVICIO.onrender.com";
+
 // ============================================
 // PETCARE ADVISOR
 // Interfaz web conectada con SWI-Prolog
@@ -90,7 +93,6 @@ function mostrarResultado(resultado) {
             tarjeta.style.display = "flex";
             tarjeta.style.flexDirection = "column";
 
-            // 🖼️ Crear e insertar la imagen dinámica del animal
             const imagenAnimal = document.createElement("img");
             imagenAnimal.src = animal.imagen; // Ruta enviada desde Prolog
             imagenAnimal.alt = animal.variedad;
@@ -182,7 +184,7 @@ formulario.addEventListener("submit", async (evento) => {
 
     try {
         // Enviar la petición estructurada a SWI-Prolog
-        const respuesta = await fetch("/api/consulta", {
+        const respuesta = await fetch(`${API_BASE_URL}/api/consulta`, {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
@@ -209,9 +211,7 @@ formulario.addEventListener("submit", async (evento) => {
 
         alert(
             "¡Ups! No pudimos conectar con el asistente.\n\n" +
-            "Asegúrate de que:\n" +
-            "1. Ejecutaste 'iniciar_petc.' en la consola de SWI-Prolog.\n" +
-            "2. Estás visualizando la app desde http://localhost:8000\n\n" +
+            "Comprueba que el servidor Prolog esté desplegado y que API_BASE_URL en app.js tenga su URL pública de Render.\n\n" +
             "Detalle técnico: " + error.message
         );
 
