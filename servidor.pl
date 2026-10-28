@@ -2,6 +2,7 @@
 % PETCARE ADVISOR - SERVIDOR WEB
 % ============================================
 
+:- set_prolog_flag(encoding, utf8).
 :- use_module(library(http/thread_httpd)).
 :- use_module(library(http/http_dispatch)).
 :- use_module(library(http/http_json)).
