@@ -25,7 +25,7 @@ animal(p03, perro, cane_corso, adulto, casa, amplio, 'Cane_corso.png').
 animal(p04, perro, akita, adulto, casa, amplio, 'Akita.png').
 animal(p05, perro, border_collie, adulto, casa, amplio, 'Border_collie.png').
 animal(p06, perro, pomeranian, adulto, departamento, limitado, 'Pomeranian.png').
-animal(p07, perro, 'schnauzer_mini_pequeño', adulto, departamento, limitado, 'Schnauzer_mini_pequeño.png').
+animal(p07, perro, schnauzer_mini_pequeño, adulto, departamento, limitado, 'Schnauzer_mini_pequeño.png').
 animal(p08, perro, basset_artesiano_de_normandia, adulto, casa, moderado, 'Basset_artesiano_de_normandia.png').
 
 % ============================================
@@ -215,49 +215,49 @@ recomendacion('schnauzer_mini_pequeño', movimiento, 'Movimiento: Realiza paseos
 
 % =====================================================
 recomendacion_etapa(hamster, cria, alimento, 'Ofrece una dieta de crecimiento apropiada para hamster y para su especie; realiza la transición de alimento de forma gradual y consulta a un veterinario de exóticos si aún depende de la madre o no come bien.').
-recomendacion_etapa(hamster, cria, juego, 'Ofrece a hamster escondites y objetos seguros para explorar, sin manipularlo en exceso; deja que se acerque a su ritmo y evita piezas pequeñas que pueda tragarse.').
-recomendacion_etapa(hamster, cria, entorno, 'Mantén el espacio de hamster tranquilo, seco, ventilado y a temperatura estable; proporciona sustrato seguro y refugios, y evita separarlo prematuramente de la madre.').
-recomendacion_etapa(hamster, cria, movimiento, 'Permite a hamster explorar en un área protegida y bajo supervisión, con obstáculos bajos; no fuerces el ejercicio ni lo despiertes para jugar.').
+recomendacion_etapa(hamster, cria, juego, 'Ofrece al hamster escondites y objetos seguros para explorar, sin manipularlo en exceso; deja que se acerque a su ritmo y evita piezas pequeñas que pueda tragarse.').
+recomendacion_etapa(hamster, cria, entorno, 'Mantén el espacio del hamster tranquilo, seco, ventilado y a temperatura estable; proporciona sustrato seguro y refugios, y evita separarlo prematuramente de la madre.').
+recomendacion_etapa(hamster, cria, movimiento, 'Permite al hamster explorar en un área protegida y bajo supervisión, con obstáculos bajos; no fuerces el ejercicio ni lo despiertes para jugar.').
 
-recomendacion_etapa(hamster, adulto, alimento, 'Mantén para hamster una dieta específica de su especie, con agua fresca permanente y porciones controladas; evita cambios bruscos y confirma con un veterinario de exóticos qué alimentos son adecuados.').
-recomendacion_etapa(hamster, adulto, juego, 'Enriquece el entorno de hamster con túneles, escondites y materiales seguros para roer; rota los objetos y retira los que estén dañados.').
-recomendacion_etapa(hamster, adulto, entorno, 'Prepara para hamster un recinto seguro, bien ventilado, con refugios y sustrato apropiado para su especie; evita corrientes de aire, calor excesivo y materiales perfumados.').
-recomendacion_etapa(hamster, adulto, movimiento, 'Facilita a hamster actividad diaria segura mediante exploración, túneles y movimiento voluntario; usa una rueda solo si es apropiada para su especie y de superficie sólida.').
+recomendacion_etapa(hamster, adulto, alimento, 'Mantén para el hamster una dieta específica de su especie, con agua fresca permanente y porciones controladas; evita cambios bruscos y confirma con un veterinario de exóticos qué alimentos son adecuados.').
+recomendacion_etapa(hamster, adulto, juego, 'Enriquece el entorno del hamster con túneles, escondites y materiales seguros para roer; rota los objetos y retira los que estén dañados.').
+recomendacion_etapa(hamster, adulto, entorno, 'Prepara para el hamster un recinto seguro, bien ventilado, con refugios y sustrato apropiado para su especie; evita corrientes de aire, calor excesivo y materiales perfumados.').
+recomendacion_etapa(hamster, adulto, movimiento, 'Facilita al hamster actividad diaria segura mediante exploración, túneles y movimiento voluntario; usa una rueda solo si es apropiada para su especie y de superficie sólida.').
 
-recomendacion_etapa(hamster, senior, alimento, 'Para hamster senior, vigila cambios en apetito, consumo de agua y peso; facilita el acceso al alimento y consulta al veterinario de exóticos si necesita ajustes dietéticos.').
-recomendacion_etapa(hamster, senior, juego, 'Para hamster senior, utiliza enriquecimiento sencillo y accesible, con escondites a nivel del suelo y objetos ligeros; observa si disminuye su interés o movilidad.').
-recomendacion_etapa(hamster, senior, entorno, 'Adapta el recinto de hamster para facilitar el acceso a agua, comida y refugios, con superficies estables y sin obstáculos altos que puedan provocar caídas.').
-recomendacion_etapa(hamster, senior, movimiento, 'Anima a hamster senior a moverse voluntariamente en recorridos cortos y seguros; evita ruedas u obstáculos si presenta dificultad para caminar y consulta al veterinario.').
+recomendacion_etapa(hamster, senior, alimento, 'Para un hamster senior, vigila cambios en apetito, consumo de agua y peso; facilita el acceso al alimento y consulta al veterinario de exóticos si necesita ajustes dietéticos.').
+recomendacion_etapa(hamster, senior, juego, 'Para un hamster senior, utiliza enriquecimiento sencillo y accesible, con escondites a nivel del suelo y objetos ligeros; observa si disminuye su interés o movilidad.').
+recomendacion_etapa(hamster, senior, entorno, 'Adapta el recinto del hamster para facilitar el acceso a agua, comida y refugios, con superficies estables y sin obstáculos altos que puedan provocar caídas.').
+recomendacion_etapa(hamster, senior, movimiento, 'Anima al hamster senior a moverse voluntariamente en recorridos cortos y seguros; evita ruedas u obstáculos si presenta dificultad para caminar y consulta al veterinario.').
 
 recomendacion_etapa(chinchilla, cria, alimento, 'Ofrece una dieta de crecimiento apropiada para chinchilla y para su especie; realiza la transición de alimento de forma gradual y consulta a un veterinario de exóticos si aún depende de la madre o no come bien.').
-recomendacion_etapa(chinchilla, cria, juego, 'Ofrece a chinchilla escondites y objetos seguros para explorar, sin manipularlo en exceso; deja que se acerque a su ritmo y evita piezas pequeñas que pueda tragarse.').
-recomendacion_etapa(chinchilla, cria, entorno, 'Mantén el espacio de chinchilla tranquilo, seco, ventilado y a temperatura estable; proporciona sustrato seguro y refugios, y evita separarlo prematuramente de la madre.').
-recomendacion_etapa(chinchilla, cria, movimiento, 'Permite a chinchilla explorar en un área protegida y bajo supervisión, con obstáculos bajos; no fuerces el ejercicio ni lo despiertes para jugar.').
+recomendacion_etapa(chinchilla, cria, juego, 'Ofrece escondites y objetos seguros para explorar, sin manipularlo en exceso; deja que se acerque a su ritmo y evita piezas pequeñas que pueda tragarse.').
+recomendacion_etapa(chinchilla, cria, entorno, 'Mantén el espacio tranquilo, seco, ventilado y a temperatura estable; proporciona sustrato seguro y refugios, y evita separarlo prematuramente de la madre.').
+recomendacion_etapa(chinchilla, cria, movimiento, 'Permite explorar en un área protegida y bajo supervisión, con obstáculos bajos; no fuerces el ejercicio ni lo despiertes para jugar.').
 
-recomendacion_etapa(chinchilla, adulto, alimento, 'Mantén para chinchilla una dieta específica de su especie, con agua fresca permanente y porciones controladas; evita cambios bruscos y confirma con un veterinario de exóticos qué alimentos son adecuados.').
-recomendacion_etapa(chinchilla, adulto, juego, 'Enriquece el entorno de chinchilla con túneles, escondites y materiales seguros para roer; rota los objetos y retira los que estén dañados.').
-recomendacion_etapa(chinchilla, adulto, entorno, 'Prepara para chinchilla un recinto seguro, bien ventilado, con refugios y sustrato apropiado para su especie; evita corrientes de aire, calor excesivo y materiales perfumados.').
-recomendacion_etapa(chinchilla, adulto, movimiento, 'Facilita a chinchilla actividad diaria segura mediante exploración, túneles y movimiento voluntario; usa una rueda solo si es apropiada para su especie y de superficie sólida.').
+recomendacion_etapa(chinchilla, adulto, alimento, 'Mantén una dieta específica de su especie, con agua fresca permanente y porciones controladas; evita cambios bruscos y confirma con un veterinario de exóticos qué alimentos son adecuados.').
+recomendacion_etapa(chinchilla, adulto, juego, 'Enriquece el entorno con túneles, escondites y materiales seguros para roer; rota los objetos y retira los que estén dañados.').
+recomendacion_etapa(chinchilla, adulto, entorno, 'Prepara un recinto seguro, bien ventilado, con refugios y sustrato apropiado para su especie; evita corrientes de aire, calor excesivo y materiales perfumados.').
+recomendacion_etapa(chinchilla, adulto, movimiento, 'Facilita actividad diaria segura mediante exploración, túneles y movimiento voluntario; usa una rueda solo si es apropiada para su especie y de superficie sólida.').
 
-recomendacion_etapa(chinchilla, senior, alimento, 'Para chinchilla senior, vigila cambios en apetito, consumo de agua y peso; facilita el acceso al alimento y consulta al veterinario de exóticos si necesita ajustes dietéticos.').
-recomendacion_etapa(chinchilla, senior, juego, 'Para chinchilla senior, utiliza enriquecimiento sencillo y accesible, con escondites a nivel del suelo y objetos ligeros; observa si disminuye su interés o movilidad.').
-recomendacion_etapa(chinchilla, senior, entorno, 'Adapta el recinto de chinchilla para facilitar el acceso a agua, comida y refugios, con superficies estables y sin obstáculos altos que puedan provocar caídas.').
-recomendacion_etapa(chinchilla, senior, movimiento, 'Anima a chinchilla senior a moverse voluntariamente en recorridos cortos y seguros; evita ruedas u obstáculos si presenta dificultad para caminar y consulta al veterinario.').
+recomendacion_etapa(chinchilla, senior, alimento, 'Para una chinchilla senior, vigila cambios en apetito, consumo de agua y peso; facilita el acceso al alimento y consulta al veterinario de exóticos si necesita ajustes dietéticos.').
+recomendacion_etapa(chinchilla, senior, juego, 'Para una chinchilla senior, utiliza enriquecimiento sencillo y accesible, con escondites a nivel del suelo y objetos ligeros; observa si disminuye su interés o movilidad.').
+recomendacion_etapa(chinchilla, senior, entorno, 'Adapta el recinto de la chinchilla para facilitar el acceso a agua, comida y refugios, con superficies estables y sin obstáculos altos que puedan provocar caídas.').
+recomendacion_etapa(chinchilla, senior, movimiento, 'Anima a tu chinchilla a moverse voluntariamente en recorridos cortos y seguros; evita ruedas u obstáculos si presenta dificultad para caminar y consulta al veterinario.').
 
 recomendacion_etapa(jerbo, cria, alimento, 'Ofrece una dieta de crecimiento apropiada para jerbo y para su especie; realiza la transición de alimento de forma gradual y consulta a un veterinario de exóticos si aún depende de la madre o no come bien.').
-recomendacion_etapa(jerbo, cria, juego, 'Ofrece a jerbo escondites y objetos seguros para explorar, sin manipularlo en exceso; deja que se acerque a su ritmo y evita piezas pequeñas que pueda tragarse.').
-recomendacion_etapa(jerbo, cria, entorno, 'Mantén el espacio de jerbo tranquilo, seco, ventilado y a temperatura estable; proporciona sustrato seguro y refugios, y evita separarlo prematuramente de la madre.').
-recomendacion_etapa(jerbo, cria, movimiento, 'Permite a jerbo explorar en un área protegida y bajo supervisión, con obstáculos bajos; no fuerces el ejercicio ni lo despiertes para jugar.').
+recomendacion_etapa(jerbo, cria, juego, 'Ofrece al jerbo escondites y objetos seguros para explorar, sin manipularlo en exceso; deja que se acerque a su ritmo y evita piezas pequeñas que pueda tragarse.').
+recomendacion_etapa(jerbo, cria, entorno, 'Mantén el espacio del jerbo tranquilo, seco, ventilado y a temperatura estable; proporciona sustrato seguro y refugios, y evita separarlo prematuramente de la madre.').
+recomendacion_etapa(jerbo, cria, movimiento, 'Permite al jerbo explorar en un área protegida y bajo supervisión, con obstáculos bajos; no fuerces el ejercicio ni lo despiertes para jugar.').
 
-recomendacion_etapa(jerbo, adulto, alimento, 'Mantén para jerbo una dieta específica de su especie, con agua fresca permanente y porciones controladas; evita cambios bruscos y confirma con un veterinario de exóticos qué alimentos son adecuados.').
-recomendacion_etapa(jerbo, adulto, juego, 'Enriquece el entorno de jerbo con túneles, escondites y materiales seguros para roer; rota los objetos y retira los que estén dañados.').
-recomendacion_etapa(jerbo, adulto, entorno, 'Prepara para jerbo un recinto seguro, bien ventilado, con refugios y sustrato apropiado para su especie; evita corrientes de aire, calor excesivo y materiales perfumados.').
-recomendacion_etapa(jerbo, adulto, movimiento, 'Facilita a jerbo actividad diaria segura mediante exploración, túneles y movimiento voluntario; usa una rueda solo si es apropiada para su especie y de superficie sólida.').
+recomendacion_etapa(jerbo, adulto, alimento, 'Mantén una dieta específica de su especie, con agua fresca permanente y porciones controladas; evita cambios bruscos y confirma con un veterinario de exóticos qué alimentos son adecuados.').
+recomendacion_etapa(jerbo, adulto, juego, 'Enriquece el entorno del jerbo con túneles, escondites y materiales seguros para roer; rota los objetos y retira los que estén dañados.').
+recomendacion_etapa(jerbo, adulto, entorno, 'Prepara un recinto seguro, bien ventilado, con refugios y sustrato apropiado para su especie; evita corrientes de aire, calor excesivo y materiales perfumados.').
+recomendacion_etapa(jerbo, adulto, movimiento, 'Facilita al jerbo actividad diaria segura mediante exploración, túneles y movimiento voluntario; usa una rueda solo si es apropiada para su especie y de superficie sólida.').
 
-recomendacion_etapa(jerbo, senior, alimento, 'Para jerbo senior, vigila cambios en apetito, consumo de agua y peso; facilita el acceso al alimento y consulta al veterinario de exóticos si necesita ajustes dietéticos.').
-recomendacion_etapa(jerbo, senior, juego, 'Para jerbo senior, utiliza enriquecimiento sencillo y accesible, con escondites a nivel del suelo y objetos ligeros; observa si disminuye su interés o movilidad.').
-recomendacion_etapa(jerbo, senior, entorno, 'Adapta el recinto de jerbo para facilitar el acceso a agua, comida y refugios, con superficies estables y sin obstáculos altos que puedan provocar caídas.').
-recomendacion_etapa(jerbo, senior, movimiento, 'Anima a jerbo senior a moverse voluntariamente en recorridos cortos y seguros; evita ruedas u obstáculos si presenta dificultad para caminar y consulta al veterinario.').
+recomendacion_etapa(jerbo, senior, alimento, 'Para un jerbo senior, vigila cambios en apetito, consumo de agua y peso; facilita el acceso al alimento y consulta al veterinario de exóticos si necesita ajustes dietéticos.').
+recomendacion_etapa(jerbo, senior, juego, 'Para un jerbo senior, utiliza enriquecimiento sencillo y accesible, con escondites a nivel del suelo y objetos ligeros; observa si disminuye su interés o movilidad.').
+recomendacion_etapa(jerbo, senior, entorno, 'Adapta el recinto del jerbo para facilitar el acceso a agua, comida y refugios, con superficies estables y sin obstáculos altos que puedan provocar caídas.').
+recomendacion_etapa(jerbo, senior, movimiento, 'Anima al jerbo senior a moverse voluntariamente en recorridos cortos y seguros; evita ruedas u obstáculos si presenta dificultad para caminar y consulta al veterinario.').
 
 recomendacion_etapa(cobaya, cria, alimento, 'Ofrece una dieta de crecimiento apropiada para cobaya y para su especie; realiza la transición de alimento de forma gradual y consulta a un veterinario de exóticos si aún depende de la madre o no come bien.').
 recomendacion_etapa(cobaya, cria, juego, 'Ofrece a cobaya escondites y objetos seguros para explorar, sin manipularlo en exceso; deja que se acerque a su ritmo y evita piezas pequeñas que pueda tragarse.').
@@ -499,20 +499,20 @@ recomendacion_etapa(pomeranian, senior, juego, 'Ofrece a pomeranian senior juego
 recomendacion_etapa(pomeranian, senior, entorno, 'Adapta la casa para pomeranian senior con cama acolchada, superficies antideslizantes, rampas si hacen falta y acceso sencillo a agua y zona de descanso.').
 recomendacion_etapa(pomeranian, senior, movimiento, 'Mantén a pomeranian senior activo con paseos cortos y frecuentes, ajustados a su movilidad; evita esfuerzos intensos y consulta al veterinario ante dolor o fatiga.').
 
-recomendacion_etapa('schnauzer_mini_pequeño', cria, alimento, 'Ofrece a schnauzer mini pequeño alimento completo para cachorros adecuado a su tamaño esperado y edad, dividido en varias comidas; evita suplementos sin indicación veterinaria.').
-recomendacion_etapa('schnauzer_mini_pequeño', cria, juego, 'Juega con schnauzer mini pequeño en sesiones breves usando juguetes adecuados a su tamaño; prioriza exploración y aprendizaje positivo, evitando saltos altos y ejercicio de impacto.').
-recomendacion_etapa('schnauzer_mini_pequeño', cria, entorno, 'Prepara para schnauzer mini pequeño una zona de descanso cálida, segura y fácil de limpiar, con agua accesible y barreras que eviten caídas o acceso a objetos peligrosos.').
-recomendacion_etapa('schnauzer_mini_pequeño', cria, movimiento, 'Permite a schnauzer mini pequeño paseos y juegos cortos adecuados a su edad, evitando ejercicio forzado y saltos repetidos mientras crece; sigue las indicaciones veterinarias de vacunación.').
+recomendacion_etapa('schnauzer_mini_pequeño', cria, alimento, 'Ofrece al schnauzer alimento completo para cachorros adecuado a su tamaño esperado y edad, dividido en varias comidas; evita suplementos sin indicación veterinaria.').
+recomendacion_etapa('schnauzer_mini_pequeño', cria, juego, 'Juega con tu schnauzer en sesiones breves usando juguetes adecuados a su tamaño; prioriza exploración y aprendizaje positivo, evitando saltos altos y ejercicio de impacto.').
+recomendacion_etapa('schnauzer_mini_pequeño', cria, entorno, 'Prepara para tu schnauzer una zona de descanso cálida, segura y fácil de limpiar, con agua accesible y barreras que eviten caídas o acceso a objetos peligrosos.').
+recomendacion_etapa('schnauzer_mini_pequeño', cria, movimiento, 'Permite a tu schnauzer paseos y juegos cortos adecuados a su edad, evitando ejercicio forzado y saltos repetidos mientras crece; sigue las indicaciones veterinarias de vacunación.').
 
-recomendacion_etapa('schnauzer_mini_pequeño', adulto, alimento, 'Mantén para schnauzer mini pequeño una dieta completa para perros adultos, con porciones según su actividad y condición corporal; agua fresca siempre disponible.').
-recomendacion_etapa('schnauzer_mini_pequeño', adulto, juego, 'Alterna para schnauzer mini pequeño juegos de olfato, búsqueda de premios y juguetes resistentes de tamaño seguro; adapta la intensidad a su condición física.').
-recomendacion_etapa('schnauzer_mini_pequeño', adulto, entorno, 'Proporciona a schnauzer mini pequeño una cama cómoda, agua disponible, sombra y un espacio seguro; evita dejarlo en lugares con calor extremo o sin supervisión.').
-recomendacion_etapa('schnauzer_mini_pequeño', adulto, movimiento, 'Programa para schnauzer mini pequeño paseos diarios y actividades de olfato acordes con su raza, edad y salud; aumenta la intensidad gradualmente y ofrece agua y descansos.').
+recomendacion_etapa('schnauzer_mini_pequeño', adulto, alimento, 'Mantén una dieta completa para perros adultos, con porciones según su actividad y condición corporal; agua fresca siempre disponible.').
+recomendacion_etapa('schnauzer_mini_pequeño', adulto, juego, 'Alterna juegos de olfato, búsqueda de premios y juguetes resistentes de tamaño seguro; adapta la intensidad a su condición física.').
+recomendacion_etapa('schnauzer_mini_pequeño', adulto, entorno, 'Proporciona una cama cómoda, agua disponible, sombra y un espacio seguro; evita dejarlo en lugares con calor extremo o sin supervisión.').
+recomendacion_etapa('schnauzer_mini_pequeño', adulto, movimiento, 'Programa paseos diarios y actividades de olfato acordes con su raza, edad y salud; aumenta la intensidad gradualmente y ofrece agua y descansos.').
 
-recomendacion_etapa('schnauzer_mini_pequeño', senior, alimento, 'Para schnauzer mini pequeño senior, revisa con el veterinario la dieta y las porciones según peso, movilidad y salud; observa cambios en apetito, sed o masticación.').
-recomendacion_etapa('schnauzer_mini_pequeño', senior, juego, 'Ofrece a schnauzer mini pequeño senior juegos tranquilos de olfato y búsqueda a poca distancia, con descansos y superficies antideslizantes.').
-recomendacion_etapa('schnauzer_mini_pequeño', senior, entorno, 'Adapta la casa para schnauzer mini pequeño senior con cama acolchada, superficies antideslizantes, rampas si hacen falta y acceso sencillo a agua y zona de descanso.').
-recomendacion_etapa('schnauzer_mini_pequeño', senior, movimiento, 'Mantén a schnauzer mini pequeño senior activo con paseos cortos y frecuentes, ajustados a su movilidad; evita esfuerzos intensos y consulta al veterinario ante dolor o fatiga.').
+recomendacion_etapa('schnauzer_mini_pequeño', senior, alimento, 'Revisa con el veterinario la dieta y las porciones según peso, movilidad y salud; observa cambios en apetito, sed o masticación.').
+recomendacion_etapa('schnauzer_mini_pequeño', senior, juego, 'Ofrece a juegos tranquilos de olfato y búsqueda a poca distancia, con descansos y superficies antideslizantes.').
+recomendacion_etapa('schnauzer_mini_pequeño', senior, entorno, 'Adapta la casa con cama acolchada, superficies antideslizantes, rampas si hacen falta y acceso sencillo a agua y zona de descanso.').
+recomendacion_etapa('schnauzer_mini_pequeño', senior, movimiento, 'Mantén a tu perro activo con paseos cortos y frecuentes, ajustados a su movilidad; evita esfuerzos intensos y consulta al veterinario ante dolor o fatiga.').
 
 recomendacion_etapa(basset_artesiano_de_normandia, cria, alimento, 'Ofrece a basset artesiano de normandia alimento completo para cachorros adecuado a su tamaño esperado y edad, dividido en varias comidas; evita suplementos sin indicación veterinaria.').
 recomendacion_etapa(basset_artesiano_de_normandia, cria, juego, 'Juega con basset artesiano de normandia en sesiones breves usando juguetes adecuados a su tamaño; prioriza exploración y aprendizaje positivo, evitando saltos altos y ejercicio de impacto.').

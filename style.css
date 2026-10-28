@@ -276,17 +276,14 @@ textarea:focus-visible {
     outline-offset: 3px;
 }
 
-/* Contenedor de la imagen en la tarjeta para evitar desbordes */
 .advice-card img {
-    transition: transform 0.3s ease; /* Controla la velocidad de la animación */
+    transition: transform 0.3s ease; 
 }
 
-/* Efecto Zoom al pasar el cursor (Hover) */
 .advice-card:hover img {
-    transform: scale(1.05); /* Incrementa el tamaño un 5% */
+    transform: scale(1.05); 
 }
 
-/* Opcional: Si quieres un diseño más limpio, evita que la imagen salga del borde redondeado */
 .advice-card {
     overflow: hidden;
     transition: box-shadow 0.3s ease;

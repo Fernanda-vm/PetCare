@@ -24,7 +24,6 @@ const descripcionResultados = document.getElementById(
 const listaConsejos = document.getElementById("lista-consejos");
 
 // 3. Variedades disponibles por especie
-// 3. Variedades disponibles por especie (Corregido para coincidir con Prolog)
 const variedades = {
     perro: ["chihuahua", "gran_danes", "cane_corso", "akita", "border_collie", "pomeranian", "schnauzer_mini_pequeño", "basset_artesiano_de_normandia"],
     gato: ["bombay", "persa", "cymric", "bengala"],
@@ -82,7 +81,6 @@ function mostrarResultado(resultado) {
         mensaje.textContent = "No encontramos una coincidencia exacta en nuestro catálogo para esta combinación. ¡Prueba cambiando el entorno o el espacio disponible!";
         listaConsejos.appendChild(mensaje);
     } else {
-        // Asegurarnos de que el contenedor use la clase de la cuadrícula
         listaConsejos.className = "advice-grid";
 
         animales.forEach((animal) => {
@@ -106,7 +104,7 @@ function mostrarResultado(resultado) {
             encabezado.innerHTML = `🐾 ${animal.variedad} <small style="color: var(--muted); font-weight:400;">(${animal.id})</small>`;
             tarjeta.appendChild(encabezado);
 
-            // 2. Badge o Info rápida de compatibilidad
+            // 2. Información rápida de compatibilidad
             const infoCompatibilidad = document.createElement("p");
             infoCompatibilidad.style.fontSize = "0.8rem";
             infoCompatibilidad.style.margin = "8px 0";
@@ -170,7 +168,6 @@ formulario.addEventListener("submit", async (evento) => {
         botonEnviar.textContent = "Consultando con el experto...";
     }
 
-    // Mapeo explícito para garantizar compatibilidad con las variables de Prolog
     const datosParaProlog = {
         especie: especie.value,
         variedad: variedad.value,
@@ -238,7 +235,7 @@ if (botonLimpiar) {
         // 3. Resetear los campos del formulario a sus valores por defecto
         formulario.reset();
         
-        // 4. Subir la pantalla suavemente al inicio del formulario
+        // 4. Subir la pantalla al inicio del formulario
         formulario.scrollIntoView({
             behavior: "smooth",
             block: "center"
